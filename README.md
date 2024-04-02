@@ -58,6 +58,8 @@ The Texture used for this contains normals information on RG, time-offset inform
 
 Everything else that happens now is essentially using the aforementioned masking through dot products to apply the effects at their correct positions.
 
+In total, it took me around 10 hours spread across 3 days to get this done, which is more than I was initially told to use - but I was asked to submit this under less "pressure" than the programmer worktest, so I hope that the extra time taken is acceptable.
+
 
 
 
